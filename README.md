@@ -39,14 +39,13 @@ Duration :
   16. Menus & Pickers
   17. Using Material Design for UI
   18. User Navigation
-  
        1.Navigation Drawer 
-       2.Navigation Components
+       1.Navigation Components
               i.Navigation Graph
              ii.Navigation Host
             iii Navigation Controller
-        3. Ancestral and Back Navigation
-        4. Lateral Navigation 
+        1. Ancestral and Back Navigation
+        1. Lateral Navigation 
               1.1. Tabs for navigation
   19. Recyclerview and DiffUtil
   20. Working in the background
